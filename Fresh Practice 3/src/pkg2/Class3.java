@@ -8,6 +8,7 @@ public class Class3 extends Class1
 		char c='A';
 		a=c;
 		System.out.println(a);
+		System.out.println("i am updating");
 		
 		
 	}
